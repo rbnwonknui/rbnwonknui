@@ -1,5 +1,5 @@
 <p align="center">
-    ‹ Este perfil só funciona no tema escuro do GitHub ›
+ [!]   ‹ Este perfil só funciona no tema escuro do GitHub ›
 </p>
 <br>
 <a href="https://github.com/rbnwonknui">
