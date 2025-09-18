@@ -38,8 +38,32 @@ Hobbies: Cheating in Games, Sleep, Programming, video editing
 
 <p align="center"><strong>GitHub Status</strong></p>
 
-| <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a> <p align="center"><a href="https://github.com/rbnwonknui/Termo-AutoAwnser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rbnwonknui&repo=Termo-AutoAwnser&theme=github_dark&border_color=30363f&border_radius=0"/></a> <p align="center"><a href="https://github.com/rbnwonknui/Contexto-AutoAwnser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rbnwonknui&repo=Contexto-AutoAwnser&theme=github_dark&border_color=30363f&border_radius=0"/></a></p> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rbnwonknui&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a> <a href="#"><img src="https://streak-stats.demolab.com/?user=rbnwonknui&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a>
-|--|--|
+<p align="center">
+  <!-- Título animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/>
+</p>
+
+<p align="center">
+  <!-- Projetos -->
+  <a href="https://github.com/rbnwonknui/Termo-AutoAwnser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbnwonknui&repo=Termo-AutoAwnser&theme=github_dark&border_color=30363f&border_radius=10"/>
+  </a>
+  <a href="https://github.com/rbnwonknui/Contexto-AutoAwnser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbnwonknui&repo=Contexto-AutoAwnser&theme=github_dark&border_color=30363f&border_radius=10"/>
+  </a>
+
+
+<p align="center">
+  <!-- Estatísticas -->
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=rbnwonknui&show_icons=true&hide_border=true&theme=github_dark&border_radius=10&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/>
+  </a>
+  <a href="#">
+    <img src="https://streak-stats.demolab.com/?user=rbnwonknui&hide_border=true&theme=github-dark-blue&border_radius=10&border=30363d&locale=pt-BR&card_width=550"/>
+  </a>
+</p>
+
+
 
 <br>
 <p align="center">
