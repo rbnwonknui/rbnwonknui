@@ -64,10 +64,9 @@ Hobbies: Cheating in Games, Sleep, Programming, video editing
 </p>
 
 
-
 <br>
 <p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=rbnwonknui&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=rbnwonknui&base=7514032&style=for-the-badge&label=Views:&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/rbnwonknui?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
 <a href="#">
